@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "714852045852",
+    "firebase_url": "https://schoolmanagementsystem-f957c.firebaseio.com",
+    "project_id": "schoolmanagementsystem-f957c",
+    "storage_bucket": "schoolmanagementsystem-f957c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714852045852:android:31ebb08186bab238",
+        "android_client_info": {
+          "package_name": "com.example.sms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJL7P_tlfWKTxtFHeQhdz5Mr0fD-mmJGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714852045852-b1qom2l9hr80nbo1os9k2j0n380r6dt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
